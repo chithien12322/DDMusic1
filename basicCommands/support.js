@@ -4,7 +4,7 @@ module.exports = {
     name: 'support',
     description: 'support server of this Bot',
     execute(message, args) {
-        const supportServerLink = 'https://discord.gg/FUEHs7RCqz';
+        const supportServerLink = 'https://discord.gg/XgJm6u2XNs';
         const embed = new EmbedBuilder()
             .setColor('#FFFFFF')
             .setTitle('Support server')
